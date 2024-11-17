@@ -1,7 +1,7 @@
 # Основы веб-верстки HTML/CSS (семинары)
 
 ## Задание
-#### 1. Открыть Домашнюю работу из урока 1
+#### 1. Открыть [Домашнюю работу из урока 1](https://github.com/KirillCh22/HTML-CSS_Les1/tree/main)
 #### 2. Создать файл стилей [style.css](https://github.com/KirillCh22/HTML-CSS_Les2/blob/main/style.css)
 ![task2](https://github.com/user-attachments/assets/6d2d06e8-a992-4ced-a72b-2ef0251289b2)
 
